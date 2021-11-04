@@ -1,0 +1,1 @@
+print("The value is {}, and {} is its second power".format(5, 25))
